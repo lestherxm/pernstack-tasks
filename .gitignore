@@ -1,0 +1,5 @@
+# nodejs modules
+node_modules
+
+# environment variables to connect to Postgres Data Base
+.env
